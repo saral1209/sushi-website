@@ -2,6 +2,10 @@
 
 A beautiful and responsive Japanese restaurant landing page featuring a modern UI, elegant typography, and smooth scroll-based animations. Designed to showcase a premium food brand with aesthetic visuals and an engaging user experience.
 
+## 🌍 Live Demo  
+[Click here to view the live site]  (https://saral1209.github.io/sushi-website/)
+
+
 ---
 
 ## 🚀 Features
